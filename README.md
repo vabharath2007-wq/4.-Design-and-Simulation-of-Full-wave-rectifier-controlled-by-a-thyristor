@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![EXP 4 CIRCUIT](https://github.com/user-attachments/assets/d08a3431-0946-4c16-ab29-065d9e3e9066)
+
 ## Output
+![EXP 4 WAVEFORM](https://github.com/user-attachments/assets/4c76e30d-50c3-4d1a-8675-1d36633babaf)
+
 ## Result
+Thus the design and simulation of controlled full wave rectifier is simulated and verified
